@@ -48,10 +48,17 @@ public class Aulaprojeto06Application {
 				}else{
 				System.exit(0);
 			}
-		}else {
+		}/*else {
 			System.exit(0);
-		}
+		}/*/
+	//-----------------------------------------------------------------------------
+	//Testando metodo testeWhileJoaozinho()
+	TesteWhile testando = new TesteWhile();
+	testando.testeWhileJoaozinho();
+	//Testando metodo testeDoWhileMariazinha()
 
+	TesteWhile testando2 = new TesteWhile();
+	testando2.testeDoWhileMariazinha();
 	}
 
 
